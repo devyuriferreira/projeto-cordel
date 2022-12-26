@@ -54,7 +54,7 @@ section {
 
 section.imagem > p {
     background-color: rgba(37, 37, 37, 0.74);
-    width: 300px;
+    max-width: 300px;
 }
 
 footer {
