@@ -30,7 +30,7 @@ header {
 }
 
 header > h1 {
-    font-size: 5vw;
+    font-size: 8.3vw;
     font-family: var(--fonte2);
     padding-top: 50px;
     font-variant: small-caps;
@@ -56,7 +56,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 20px;
-    font-size: 1.4vw;
+    font-size: 3.2vw;
 }
 
 .normal {
@@ -71,7 +71,8 @@ section {
 
 section.imagem > p {
     background-color: rgba(37, 37, 37, 0.74);
-    max-width: 300px;
+    display: inline-block;
+    padding: 5px;
 }
 
 footer {
